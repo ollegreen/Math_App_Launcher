@@ -1,0 +1,29 @@
+# if statement so that if you answer the math question correctly, open chrome
+import numpy as np
+import random
+sys_random = random.SystemRandom()
+import os
+
+
+a = np.random.randint(1,100)
+b = np.random.randint(1,10)
+c = "*"
+total = int(a*b)
+
+print("What is:",a,c,b,"?")
+
+answer = int(input("It should we equal to: "))
+
+if answer == total:
+	os.system("open /Applications/Google\ Chrome.app")
+else:
+	print("Nope, try again bud!")
+
+while True:
+	answer = int(input("Then it should be equal to: "))
+
+	if answer == total:
+		os.system("open /Applications/Google\ Chrome.app")
+
+	else:
+		print("Nope, try again bud!")
