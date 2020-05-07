@@ -6,5 +6,4 @@ I found it to be more efficient when you implement it in an app which you open r
 
 Cheers. 
 
-![Image of multiplication]
-(https://live.staticflickr.com/4115/4948709003_546f4bfafa_b.jpg)
+![Image of multiplication] (https://live.staticflickr.com/4115/4948709003_546f4bfafa_b.jpg)
