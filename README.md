@@ -1,4 +1,4 @@
-# Solve the multiplication to launch your app
+# Solve a multiplication problem to launch your app
 
 Basically a script to practice some multiplication if your a bit rusty on your math like me. 
 
