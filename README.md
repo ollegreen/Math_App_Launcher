@@ -1,6 +1,6 @@
 # Solve a multiplication problem to launch your app
 
-*You need to practice that mental math? We'll then, here's an app for you (and me).*
+*You need to practice that mental math? We'll then, here's a script for you (and me).*
 
 ![Math](https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80)
 
