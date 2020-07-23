@@ -1,11 +1,17 @@
 # Solve a multiplication problem to launch your app
 
-**Why was this needed in my daily workflow?** 
+*You need to practice that mental math? We'll then, here's an app for you (and me).*
+
+![Math](https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80)
+
+# Info
+
+### Why was this needed in my daily workflow?
 I think it's good to practice some math each day. But what's a good way to practice each day? For me it has been a bit situational, where I practice some quick math problems when I feel like it. Here the survivorship bias occurs where I only practice when I'm mentally prepared for it, but we want to practice even when we're not feeling like practicing. Math should be done in all situations as it will be used not only in work-situations when we feel like it, but it is probably even more important to be sharp under tough and stressful situations. 
 
 
 
-**So how do we implement this?** 
+### So how do we implement this?
 We want to do it every day, but how do we make it so that we will not have an option to opt out of it? Well, we need to find something we use everyday and implement this into that workflow. For me that is Google Chrome, therefore everytime chrome should be launched, I will need to solve a math problem first. 
 
 
